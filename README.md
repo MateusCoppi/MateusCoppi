@@ -4,7 +4,7 @@ Currently, I am pursuing a bachelor's degree in Accounting and taking courses in
 
 When I landed my first job in an accounting office, I had the opportunity to delve into the business world and get a taste of Business Intelligence, which greatly interested me and prompted further research on the subject. Through this exploration, I discovered the fascinating universe of data, sparking a keen interest in learning more.
 
-Today, approximately two years later, I have completed various courses in the field, dedicating myself to personal projects focused on study. Whenever the opportunity arises to apply something I've learned in my current role, I make a point to do so.
+Today, i dedicating myself to personal projects focused on study. Whenever the opportunity arises to apply something I've learned in my current role, I make a point to do so.
 
 I have been committed to my studies, and soon I will delve into Machine Learning and Deep Learning.
 
